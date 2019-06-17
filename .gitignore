@@ -10,3 +10,5 @@
 /test/out
 /test/tomcat*
 /.DsStore
+/framework/build
+/framework/out
