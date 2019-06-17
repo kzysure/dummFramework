@@ -1,0 +1,12 @@
+#ignore gradle
+/.gradle
+/gradle
+#ignore .idea
+/.idea
+#ignore build
+/build
+#ignore test
+/test/build
+/test/out
+/test/tomcat*
+/.DsStore
